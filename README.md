@@ -1,5 +1,3 @@
-![MasterHead](banner.png)
-
 <div style="text-align: center; width: 100%; padding: 20px;">
     <h1 style="margin: 0;">Hi 👋, I'm Supratim Banik</h1>
     <h3 style="margin: 0;">A coding enthusiast from India</h3>
